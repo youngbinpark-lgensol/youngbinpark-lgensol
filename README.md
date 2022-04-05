@@ -1,1 +1,1 @@
-1. LG에너지솔루션 파이썬 공부
+coding study
